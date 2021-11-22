@@ -6,6 +6,8 @@ import PostMetaInfo from './PostMetaInfo'
 import Title from './Title'
 import Comment from './Comment'
 
+
+
 export default class Post extends React.Component {
   state = {
     post: null,
