@@ -1,5 +1,4 @@
 import React from 'react'
-import PropTypes from 'prop-types'
 import PostMetaInfo from './PostMetaInfo'
 
 export default function Comment ({ comment }) {
