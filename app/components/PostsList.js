@@ -32,5 +32,5 @@ export default function PostsList ({ posts }) {
 }
 
 PostsList.propTypes = {
-  posts: PropTypes.array
+  posts: PropTypes.array.isRequired
 }
